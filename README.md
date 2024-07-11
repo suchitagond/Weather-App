@@ -4,10 +4,10 @@
 <div >
   <div>
   <h4>Weather Detection of Pune City</h4>
-  <img src="Weather in Pune" alt="Pune" width="50%" height="50%">
+  <img src="Weather in Pune" alt="Pune" width="100%" height="100%">
   </div>
   <div>
-  <h4>Weather Detection of Pune City</h4>
-  <img src="Weather in Pune" alt="Pune" width="50%" height="50%">
+  <h4>Weather Detection of Delhi City</h4>
+  <img src="Weather in Delhi" alt="Delhi" width="100%" height="100%">
   </div>
 </div>
